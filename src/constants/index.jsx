@@ -164,7 +164,7 @@ export const features = [
       role: "Globalnomads",
       avatarUrl: "/images/testimonials/jessica-saunders.png",
       comment:
-        "Thanks Rahuk Kumar(DevOps) for creating simple CI/CD Application in AWS. ",
+        "Thanks Rahuk Kumar(DevOps) for creating this Amazing CI/CD Application in AWS. ",
     },
     {
       id: "1",
