@@ -164,7 +164,7 @@ export const features = [
       role: "Globalnomads",
       avatarUrl: "/images/testimonials/jessica-saunders.png",
       comment:
-        "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+        "Thanks Rahuk Kumar(DevOps) for creating simple CI/CD Application in AWS. ",
     },
     {
       id: "1",
@@ -180,7 +180,7 @@ export const features = [
       role: "Cyberleap",
       avatarUrl: "/images/testimonials/melanie-hurst.png",
       comment:
-        "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+        "Adopting this software was a breeze. It's made everyday tasks so much simpler. Thanks Rahul Kumar(DevOps).",
     },
     {
       id: "3",
